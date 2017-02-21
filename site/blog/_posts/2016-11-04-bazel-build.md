@@ -12,4 +12,4 @@ We decided to switch over to the new .build top-level domain, which reflects
 what Bazel is for: building!
 
 Our old domain, [bazel.io](https://bazel.io), will redirect to
-[bazel.build](https://bazel.build) for the forseenable future.
+[bazel.build](https://bazel.build) for the forseeable future.
